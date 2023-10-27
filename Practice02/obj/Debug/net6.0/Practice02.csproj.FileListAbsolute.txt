@@ -1,0 +1,15 @@
+C:\Users\huynh\OneDrive\Desktop\[CSharp]DataStructure\ReviewCSharp\Practice02\bin\Debug\net6.0\Practice02.exe
+C:\Users\huynh\OneDrive\Desktop\[CSharp]DataStructure\ReviewCSharp\Practice02\bin\Debug\net6.0\Practice02.deps.json
+C:\Users\huynh\OneDrive\Desktop\[CSharp]DataStructure\ReviewCSharp\Practice02\bin\Debug\net6.0\Practice02.runtimeconfig.json
+C:\Users\huynh\OneDrive\Desktop\[CSharp]DataStructure\ReviewCSharp\Practice02\bin\Debug\net6.0\Practice02.dll
+C:\Users\huynh\OneDrive\Desktop\[CSharp]DataStructure\ReviewCSharp\Practice02\bin\Debug\net6.0\Practice02.pdb
+C:\Users\huynh\OneDrive\Desktop\[CSharp]DataStructure\ReviewCSharp\Practice02\obj\Debug\net6.0\Practice02.csproj.AssemblyReference.cache
+C:\Users\huynh\OneDrive\Desktop\[CSharp]DataStructure\ReviewCSharp\Practice02\obj\Debug\net6.0\Practice02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huynh\OneDrive\Desktop\[CSharp]DataStructure\ReviewCSharp\Practice02\obj\Debug\net6.0\Practice02.AssemblyInfoInputs.cache
+C:\Users\huynh\OneDrive\Desktop\[CSharp]DataStructure\ReviewCSharp\Practice02\obj\Debug\net6.0\Practice02.AssemblyInfo.cs
+C:\Users\huynh\OneDrive\Desktop\[CSharp]DataStructure\ReviewCSharp\Practice02\obj\Debug\net6.0\Practice02.csproj.CoreCompileInputs.cache
+C:\Users\huynh\OneDrive\Desktop\[CSharp]DataStructure\ReviewCSharp\Practice02\obj\Debug\net6.0\Practice02.dll
+C:\Users\huynh\OneDrive\Desktop\[CSharp]DataStructure\ReviewCSharp\Practice02\obj\Debug\net6.0\refint\Practice02.dll
+C:\Users\huynh\OneDrive\Desktop\[CSharp]DataStructure\ReviewCSharp\Practice02\obj\Debug\net6.0\Practice02.pdb
+C:\Users\huynh\OneDrive\Desktop\[CSharp]DataStructure\ReviewCSharp\Practice02\obj\Debug\net6.0\Practice02.genruntimeconfig.cache
+C:\Users\huynh\OneDrive\Desktop\[CSharp]DataStructure\ReviewCSharp\Practice02\obj\Debug\net6.0\ref\Practice02.dll
